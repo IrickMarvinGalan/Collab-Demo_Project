@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "subject": "Mathematics",
+      "teacher": "Mr. Cruz",
+      "week": "Week 3",
+      "task": "Quiz on Algebra"
+    },
+    {
+      "subject": "Science",
+      "teacher": "Ms. Dela Rosa",
+      "week": "Week 3",
+      "task": "Lab report on chemical reactions"
+    },
+    {
+      "subject": "English",
+      "teacher": "Mr. Reyes",
+      "week": "Week 3",
+      "task": "Essay on environmental issues"
+    }
+  ]
+}
